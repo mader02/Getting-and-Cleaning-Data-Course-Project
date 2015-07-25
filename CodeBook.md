@@ -3,7 +3,7 @@
 ### mader02 ###
 ### 25th July 2015###
 
-##The variables##
+##The Variables##
 * `fileURL` : URL for the source of the data
 * `zipfile` : data downloaded in zip format
 * `test_set` : data that was obtained from X data from test data set
