@@ -1,4 +1,4 @@
-#** README **#
+**# README #**
 ##** Introduction**##
 This repository host the R code and documentation files for the Data Science's track course "Getting and Cleaning data", available in coursera.
 
@@ -12,7 +12,7 @@ There are two set of measurements, training & test with 561 features of them. Bo
 ##** The Script**##
 The script called **run_analysis** constructed to load the data from the website, and merge the test and training set together.
 
-Labels were added after merged, and only columns with ‘mean’ and ‘standard deviation’ are kept
+Labels were added after merged, and only columns with â€˜meanâ€™ and â€˜standard deviationâ€™ are kept
 
 Lastly, a tidy set of data called **average_data** containing the means of all the columns per test subject and per activity were extracted and written to a tab-delimited file called average_data.txt
 
