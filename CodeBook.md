@@ -1,6 +1,6 @@
 
 #Code Book for Data Cleaning Project#
-### Mahathir bin Marzuki ###
+### mader02 ###
 ### 25th July 2015###
 ##Introduction##
 
