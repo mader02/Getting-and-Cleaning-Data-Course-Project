@@ -2,7 +2,6 @@
 #Code Book for Data Cleaning Project#
 ### mader02 ###
 ### 25th July 2015###
-##Introduction##
 
 ##The variables##
 * `fileURL` : URL for the source of the data
