@@ -1,10 +1,10 @@
 
-#** Code Book for Data Cleaning Project **#
+#Code Book for Data Cleaning Project#
 ### Mahathir bin Marzuki ###
 ### 25th July 2015###
-##** Introduction**##
+##Introduction##
 
-##** The variables **##
+##The variables##
 * `fileURL` : URL for the source of the data
 * `zipfile` : data downloaded in zip format
 * `test_set` : data that was obtained from X data from test data set
@@ -22,7 +22,7 @@
 * `all_data` : the combination of _data_set_  data , _data_labels_ data and _subject_ data
 * `average_data` :  independent tidy data set with the average of each variable for each activity and each subject
 
-##** The Data **##
+##The Data##
 ### The Raw Data ###
 The data was collected from the accelerometers from the Samsung Galaxy S smartphone that carried out with a group of 30 volunteers
 
@@ -41,7 +41,7 @@ consists of subject, x  and y data.
 * Training Data:
 consists of subject, x  and y data.
 
-##** The Script **##
+##The Script##
 The script ** run_analysis.R ** performs the 5 steps described in the course project's definition.
 ### Step 1 ###
 _Instruction 1: Merges the training and the test sets to create one data set._ 
