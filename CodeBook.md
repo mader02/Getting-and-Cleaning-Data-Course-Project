@@ -58,7 +58,8 @@ After that, subset the desired columns from `data_set` with the variable `mean_a
 _Instruction 3. Uses descriptive activity names to name the activities in the data set_
 
 Here we use the `inner_join()` function to combine the `data_labels`
- ### Step 4 ###
+
+### Step 4 ###
 _Instruction 4_. Appropriately label the data set with descriptive variable names
 
 Here, we  add column name to subject file and bind all the data in a single data set
