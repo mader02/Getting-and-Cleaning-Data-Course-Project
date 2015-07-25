@@ -41,7 +41,7 @@ consists of subject, x  and y data.
 consists of subject, x  and y data.
 
 ##The Script##
-The script ** run_analysis.R ** performs the 5 steps described in the course project's definition.
+The script **run_analysis.R** performs the 5 steps described in the course project's definition.
 ### Step 1 ###
 _Instruction 1: Merges the training and the test sets to create one data set._ 
 
