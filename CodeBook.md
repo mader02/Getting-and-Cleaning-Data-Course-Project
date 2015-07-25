@@ -60,11 +60,12 @@ _Instruction 3. Uses descriptive activity names to name the activities in the da
 Here we use the `inner_join()` function to combine the `data_labels`
 
 ### Step 4 ###
-_Instruction 4_. Appropriately label the data set with descriptive variable names
+_Instruction 4. Appropriately label the data set with descriptive variable names_
 
 Here, we  add column name to subject file and bind all the data in a single data set
- ### Step 5 ###
-_Instruction 5_.  Create a second, independent tidy data set with the average of each variable for each activity and each subject
+
+### Step 5 ###
+_Instruction 5.  Create a second, independent tidy data set with the average of each variable for each activity and each subject_
 
 The finish data was then grouped and summarized using `group_by()` and `summarise_each()` function to get a tidy data set with the average of each variable for each activity and each subject.
 
